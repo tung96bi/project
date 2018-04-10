@@ -21,6 +21,14 @@
 /yarn-error.log
 
 .byebug_history
+
 # Ignore file database.yml and secrets.yml in config
 /config/database.yml
 /config/secrets.yml
+
+#Ignore file in .framgia-ci
+/.framgia-ci-result.temp.yml
+/.framgia-ci-reports
+/.drone.yml
+/Dockerfile
+/framgia_ci_integrate_steps.md
