@@ -27,3 +27,6 @@ en:
       this_is_the_home_page_for_the: "This is the home page for the"
       text: "Ruby on Rails Tutorial"
       sample_application: "sample application."
+  layouts:
+    application:
+      title: "Ruby on Rails Tutorial Sample App"
