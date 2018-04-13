@@ -23,10 +23,22 @@ en:
       text: "Ruby on Rails Tutorial"
     home:
       home: "Home"
-      sample_app: "Sample App"
+      sample_app: "Welcome to the Sample App"
       this_is_the_home_page_for_the: "This is the home page for the"
       text: "Ruby on Rails Tutorial"
       sample_application: "sample application."
+      sign_up: "Sign up now!"
   layouts:
     application:
       title: "Ruby on Rails Tutorial Sample App"
+    footer:
+      by: "by"
+      michael: "Michael Hartl"
+      new: "New"
+    header:
+      sample_app: "sample app"
+      login: "Log in" 
+  users:
+    new:
+      sign_up: "Sign up"
+      this_will_be_a_signup_page_for_new_users: "This will be a signup page for new users."
